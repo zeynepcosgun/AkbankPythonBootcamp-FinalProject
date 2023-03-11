@@ -1,0 +1,11 @@
+* Lütfen Bir Pizza Tabanı Seçiniz:
+1: Klasik Pizza
+2: Margarita Pizza
+3: Türk Pizza
+4: Sade Pizza
+* ve seçeceğiniz sos:
+10: Zeytin
+11: Mantar
+12: Keçi Peyniri
+13: Domates
+* Teşekkür ederiz!
